@@ -3,7 +3,7 @@
 To analyze 5,007 finance transactions worth ₹45.61 Cr using Advanced Excel to track revenue performance, understand customer behaviour, and identify reasons behind 10.19% failed transactions. The project aims to convert raw transaction data into an interactive dashboard with KPIs, charts, and slicers to help business reduce failures and increase revenue.
 
 ## Dataset used
-- <a href ="https://github.com/Namrata313/Excel-Project/blob/main/Finanace%20data.xlsx">
+- <a href ="https://github.com/Namrata313/Excel-Project/blob/main/Finanace%20data.xlsx">Dataset view</a>
 
 ## Question KPI
 Questions (KPI)
@@ -26,7 +26,9 @@ Questions (KPI)
 * Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard Screenshot   
-<a href ="https://github.com/Namrata313/Excel-Project/blob/main/Screenshot%202026-11-18%20132747.png">
+<a href ="https://github.com/Namrata313/Excel-Project/blob/main/Screenshot%202026-11-18%20132747.png">Dashboard view</a>
+<img width="1366" height="728" alt="Screenshot 2026-11-18 132747" src="https://github.com/user-attachments/assets/3e18f86c-bc44-4367-9993-f445e3092258" />
+
 
 
 
